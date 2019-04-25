@@ -1,0 +1,3 @@
+- `@Component` 告诉Spring本类为一个Java Bean
+- `@Autowired` 自动装配一个Java Bean
+- `@Conifguration` 告诉Spring Java Bean之间的依赖关系
